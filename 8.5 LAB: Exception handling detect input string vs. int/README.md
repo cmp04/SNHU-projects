@@ -1,5 +1,5 @@
-#The given program reads a list of single-word first names and ages (ending with -1), and outputs that list with the age incremented. 
-#The program fails and throws an exception if the second input on a line is a string rather than an int. At FIXME in the code, add a try/catch statement to catch ios_base::failure, and output 0 for the age.
+# The given program reads a list of single-word first names and ages (ending with -1), and outputs that list with the age incremented. 
+# The program fails and throws an exception if the second input on a line is a string rather than an int. At FIXME in the code, add a try/catch statement to catch ios_base::failure, and output 0 for the age.
 
 Ex: If the input is:
 
